@@ -1,6 +1,6 @@
 {-# LANGUAGE TemplateHaskell #-}
 
-module B where
+module B4 where
 
 import A (a)
 
